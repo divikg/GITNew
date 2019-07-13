@@ -10,6 +10,7 @@ namespace GITNew
     {
         static void Main(string[] args)
         {
+            Console.Write("T2");
         }
     }
 }
